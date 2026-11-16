@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://serpzilla.com"><img alt="Website" src="https://img.shields.io/badge/serpzilla.com-visit-2F5BEA?style=flat-square"></a>
-  <a href="#connect-the-mcp-server"><img alt="MCP server" src="https://img.shields.io/badge/MCP-mcp.serpzilla.com-D98E00?style=flat-square"></a>
-  <a href="#agent-skills"><img alt="Agent skills" src="https://img.shields.io/badge/agent_skills-Claude_%7C_Cursor_%7C_any_MCP_client-46527A?style=flat-square"></a>
+  <a href="https://serpzilla.com/api/mcp/"><img alt="MCP server" src="https://img.shields.io/badge/MCP-mcp.serpzilla.com-D98E00?style=flat-square"></a>
+  <a href="https://github.com/SerpzillaOfficial/agent-skills"><img alt="Agent skills" src="https://img.shields.io/badge/agent_skills-Claude_%7C_Cursor_%7C_any_MCP_client-46527A?style=flat-square"></a>
   <a href="https://serpzilla.com/blog/"><img alt="Blog" src="https://img.shields.io/badge/blog-link_building_guides-46527A?style=flat-square"></a>
 </p>
 
